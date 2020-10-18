@@ -1,3 +1,13 @@
+# React-Tutorial
+
+Intro to React.
+
+A simple tic-tac-toe game (no AI) in a browser built in Javascript with React.
+
+Followed the tutorial at: https://reactjs.org/tutorial/tutorial.html
+
+See below for documentation from the tutorial:
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
